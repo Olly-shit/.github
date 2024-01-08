@@ -1,4 +1,4 @@
-![Olly Logo](./logo.svg) [🔗](/mnt/data/Olly-_Specification_techniques.pdf)
+<img src="./logo.svg" alt="Olly Logo" width="100"/> [🔗](/mnt/data/Olly-_Specification_techniques.pdf)
 
 # 🌟 Welcome to Olly! 🌟
 
