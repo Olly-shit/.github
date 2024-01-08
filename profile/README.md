@@ -1,7 +1,7 @@
 <img src="./logo.svg" alt="Olly Logo" width="400"/> 
 
 # 🌟 Welcome to Olly! 🌟
-[🔗 technicals specifications](/mnt/data/Olly-_Specification_techniques.pdf)
+[🔗 technicals specifications](Olly-_Specification_techniques.pdf)
 ## 📖 About Olly
 Olly is a mobile app for organizing group vacations, simplifying management of travel, accommodation, expenses, and more.
 
