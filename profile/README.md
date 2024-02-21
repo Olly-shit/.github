@@ -1,4 +1,4 @@
-<img src="./logo.svg" alt="Olly Logo" width="400"/> 
+<img src="../logo.svg" alt="Olly Logo" width="400"/> 
 
 # 🌟 Welcome to Olly! 🌟
 [🔗 technicals specifications](profile/Olly-_Specification_techniques.pdf)
